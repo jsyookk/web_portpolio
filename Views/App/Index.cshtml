@@ -1,0 +1,29 @@
+﻿@*
+   
+*@
+@{
+    
+}
+
+
+
+
+    <div>
+        <h1>
+            Sidenav
+        </h1>
+
+       
+    </div>
+
+    <div>
+        <ul>
+            @foreach (var category in Model)
+            {
+                <li>@category.CategoryID</li>
+                <li>@category.CategoryName</li>
+
+            }
+        </ul>
+    </div>
+

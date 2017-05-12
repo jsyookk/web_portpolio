@@ -1,0 +1,9 @@
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\bin\Debug\netcoreapp1.1\MyFirstProj_TreeView.deps.json
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\bin\Debug\netcoreapp1.1\MyFirstProj_TreeView.runtimeconfig.json
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\bin\Debug\netcoreapp1.1\MyFirstProj_TreeView.runtimeconfig.dev.json
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\bin\Debug\netcoreapp1.1\MyFirstProj_TreeView.dll
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\bin\Debug\netcoreapp1.1\MyFirstProj_TreeView.pdb
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\obj\Debug\netcoreapp1.1\MyFirstProj_TreeView.csprojResolveAssemblyReference.cache
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\obj\Debug\netcoreapp1.1\MyFirstProj_TreeView.AssemblyInfo.cs
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\obj\Debug\netcoreapp1.1\MyFirstProj_TreeView.dll
+D:\project\MyFirstProj_TreeView\MyFirstProj_TreeView\obj\Debug\netcoreapp1.1\MyFirstProj_TreeView.pdb
